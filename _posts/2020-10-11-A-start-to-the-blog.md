@@ -1,3 +1,7 @@
+---
+title: "A New Start"
+date: 2020-10-11
+
 # A new start
 
 Welcome to the first in a series of posts revolving around *software development*.
