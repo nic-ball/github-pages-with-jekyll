@@ -1,8 +1,7 @@
 title: nicTheDevs musings
 author: nic-ball
 email: nicthedev@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-"A place for testing new ideas and writing about the constant journey to be a better software developer."
+description: "A place for testing new ideas and writing about the constant journey to be a better software developer."
 
 theme: minima
 
